@@ -1,0 +1,3 @@
+2024-03-26 20:18:17,969 - INFO - Finding element by locator: ('id', 'input-username')
+2024-03-26 20:18:18,038 - INFO - Finding element by locator: ('id', 'input-password')
+2024-03-26 20:18:18,117 - INFO - Finding element by locator: ('xpath', "//button[@type='submit']")
